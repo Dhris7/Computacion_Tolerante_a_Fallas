@@ -1,1 +1,1 @@
-# Ejemplo-Otras-herramientas-para-el-manejar-errores-
+# Repositorio de la materia: Computación Tolerante a Fallas 2024A
